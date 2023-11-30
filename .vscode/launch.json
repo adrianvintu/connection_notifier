@@ -7,7 +7,8 @@
         {
             "name": "connection_notifier",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "example/example.dart"
         },
         {
             "name": "connection_notifier (profile mode)",
